@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0145/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0145/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 如來示教勝軍王經
+  identifiers:
+    krp: KR6i0145
+    cbeta: T14n0515
+    cbeta_old_id: T14n0515
+    authorityid: CA0002658
+    json_key: T0515
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0515.xml
+    old_id: T14n0515
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0145_000-T.yaml, hash: 'sha256:e10870938e92a40e7bc6c01f5fd4e0dc22497ae1583bf5d1183515b226381695'}
+  - {seq: 1, filename: KR6i0145_001-T.yaml, hash: 'sha256:36016d1e4cc167975f54c25497c42de4bb00cc6ee21a7dec665994587fe431cc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0145_000-T.markers.yaml, hash: 'sha256:2eebef9e0914ccef3cf90b640bcd91b244e6e3bac3a5c9fe5d52a3be2cd43059'}
+  - {seq: 1, role: markers, filename: assets/KR6i0145_001-T.markers.yaml, hash: 'sha256:57c268f590230be2d3d76d39a4fef176e4bceaa483d76d5fe3090299dabe7a0f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0145_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3008
+  label: 如來示教勝軍王經
+  type: juan
+  level: 1
+hash: sha256:4db8f595fc7f08357703a077bedeeff1f61b81a38bef0a8fe5aed196e9a2141e

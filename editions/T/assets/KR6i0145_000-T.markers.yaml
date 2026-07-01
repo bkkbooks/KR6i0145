@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6i0145/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6i0145_T_000-0786c14, ed: T, 'n': 0786c14}
+  - {type: line-break, offset: 0, content: '', id: KR6i0145_T_000-0786c15, ed: T, 'n': 0786c15}
+  - {type: line-break, offset: 0, content: '', id: KR6i0145_T_000-0786c16, ed: T, 'n': 0786c16}
+  - {type: line-break, offset: 0, content: '', id: KR6i0145_T_000-0786c17, ed: T, 'n': 0786c17}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0145_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0145_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0145_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0145_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0145_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0145_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '[', id: KR6i0145_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0145_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0145_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: s, id: KR6i0145_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0145_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0145_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0145_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0145_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: ',', id: KR6i0145_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0145_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0145_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '6', id: KR6i0145_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6i0145_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6i0145_T_000-0786c18, ed: T, 'n': 0786c18}
+  body: []
+  back: []
+hash: sha256:2eebef9e0914ccef3cf90b640bcd91b244e6e3bac3a5c9fe5d52a3be2cd43059

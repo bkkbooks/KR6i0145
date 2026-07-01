@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0145/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 如來示教勝軍王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0515.xml
+    old_id: T14n0515
+hash: sha256:e10870938e92a40e7bc6c01f5fd4e0dc22497ae1583bf5d1183515b226381695

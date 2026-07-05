@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0145_000.yaml, hash: 'sha256:e10870938e92a40e7bc6c01f5fd4e0dc22497ae1583bf5d1183515b226381695'}
-  - {seq: 1, filename: KR6i0145_001.yaml, hash: 'sha256:d08d451fd9b3a79d4b65248354c25602e2f47559b6f12e15163a1b077be230ec'}
+  - {seq: 1, filename: KR6i0145_001.yaml, hash: 'sha256:36016d1e4cc167975f54c25497c42de4bb00cc6ee21a7dec665994587fe431cc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0145_001.markers.yaml, hash: 'sha256:f816b68eaf0c32933640845b7e8118ad4f4c15edbbb187b0470a7c1ef5bbd478'}
+  - {seq: 0, role: markers, filename: assets/KR6i0145_000.markers.yaml, hash: 'sha256:5a1630ee8e81ce445782c7f03fcf77e8bd59400c1096d4fe33a5a041d103c471'}
+  - {seq: 1, role: markers, filename: assets/KR6i0145_001.markers.yaml, hash: 'sha256:b16aebc1386f3d761e178a505500b640344c1b49469c2defe4322b52aabc5783'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 如來示教勝軍王經
   type: juan
   level: 1
-hash: sha256:45b8539299e4a53c8135bc190811e239359bd83eda43c336d3bd099b5b5e727b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:34726d665f9a7ac6e3b5312b1f4b3f73a89fe875e0d2d70722d2c409d22de735

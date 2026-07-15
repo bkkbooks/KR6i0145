@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0145/v1
 canonical_location: https://kanripo.org/bkk/KR6i0145/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 如來示教勝軍王經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0145_000.yaml, hash: 'sha256:e10870938e92a40e7bc6c01f5fd4e0dc22497ae1583bf5d1183515b226381695'}
-  - {seq: 1, filename: KR6i0145_001.yaml, hash: 'sha256:36016d1e4cc167975f54c25497c42de4bb00cc6ee21a7dec665994587fe431cc'}
+  - {seq: 1, filename: KR6i0145_001.yaml, hash: 'sha256:0a2d09bf77630f63b69d805468369616afa8713f636403667083df65ee9f56d6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0145_000.markers.yaml, hash: 'sha256:5a1630ee8e81ce445782c7f03fcf77e8bd59400c1096d4fe33a5a041d103c471'}
-  - {seq: 1, role: markers, filename: assets/KR6i0145_001.markers.yaml, hash: 'sha256:b16aebc1386f3d761e178a505500b640344c1b49469c2defe4322b52aabc5783'}
+  - {seq: 1, role: markers, filename: assets/KR6i0145_001.markers.yaml, hash: 'sha256:10f83b7f5177cd5ecd1b3951877167f8e0099b90c7de1a47c649206b2612bcd2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 如來示教勝軍王經
   type: juan
   level: 1
-hash: sha256:34726d665f9a7ac6e3b5312b1f4b3f73a89fe875e0d2d70722d2c409d22de735
+hash: sha256:9a9830c228c249dd9b5b0c4e5792b93616684e38c66f9d28c068ecd905e9ffd8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
